@@ -1,0 +1,1 @@
+{"name":"sam360-v16","private":true,"type":"module","scripts":{"start":"node server.mjs"}}

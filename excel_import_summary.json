@@ -1,0 +1,37 @@
+{
+  "importedAt": "2026-09-30",
+  "policy": "merge_preserve_history",
+  "employeeCount": 75,
+  "legacyCounts": {
+    "rapportini": 8118,
+    "turni": 42,
+    "visite": 99,
+    "ferie": 38,
+    "corsi": 85
+  },
+  "importedModules": {
+    "personale": 75,
+    "ore": 13801,
+    "produzione": 80,
+    "consumi": 615,
+    "dpi": 23,
+    "attrezzature": 88,
+    "certificati": 158,
+    "turni_excel": 1
+  },
+  "workHoursBySource": {
+    "Rapportino COGEI 2026": {
+      "records": 5886,
+      "ore": 57542.5
+    },
+    "ALL IN ONE": {
+      "records": 7915,
+      "ore": 75683.5
+    }
+  },
+  "limitations": [
+    "Turni W40 registrati come promemoria da riconciliare, senza assegnazioni indovinate.",
+    "La scheda PORTALI di ORE ROW CP2 non è stata riletta nel passaggio finale.",
+    "Le formule esterne non valide non sono state importate come transazioni."
+  ]
+}
